@@ -1,0 +1,3 @@
+Simulate a situation where you need to switch branches
+but have uncommitted changes. Use git stash to save your work,
+switch branches, and then apply the changes back.
